@@ -28,8 +28,8 @@ model.eval()  # Mettre le modèle en mode évaluation
 
 # Liste des téléphones
 phones = [
+    {"name": "iPhone 16 pro max", "battery": 4852, "screen": 6.9, "price": 1479},
     {"name": "iPhone 13", "battery": 3100, "screen": 6.1, "price": 800},
-    {"name": "Samsung Galaxy S21", "battery": 4000, "screen": 6.2, "price": 700},
     {"name": "Google Pixel 6", "battery": 4614, "screen": 6.4, "price": 600},
     {"name": "Xiaomi Redmi Note 10", "battery": 5000, "screen": 6.5, "price": 300},
     {"name": "PulsePhone 1 mini", "battery": 3200, "screen": 5.7, "price": 500},
